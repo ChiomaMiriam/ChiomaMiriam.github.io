@@ -1,0 +1,132 @@
+.wrapper {
+    background-color: rgb(25, 56, 25);
+}
+
+.sub-containerone {
+    background-image: url(images/download.jfif);
+    background-position: 0px 32px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 609px;
+    height: 650px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 61px;
+    padding-top: 20px;
+}
+
+#hotelname {
+    color: rgb(25, 56, 25);
+    padding-top: 15px;
+    margin-left: 40px;
+}
+
+.sub-containertwo {
+    background-color: rgb(224, 224, 163);
+    margin-right: 61px;
+    padding-top: 30px;
+    width: 609px;
+    height: 650px;
+    color: rgb(25, 56, 25);
+    position: absolute;
+    top: 40px;
+    right: 0px;
+}
+
+.sub-containerthree ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    text-align: right;
+}
+.sub-containerthree ul li {
+    text-align: center;
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: 15px;
+    transition: background-color 0.4s;
+}
+
+
+.sub-containerfour {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+    margin-top: 80px;
+}
+
+.containertwo {
+    background-color: rgb(248, 242, 242);
+    margin-top: 0px;
+    margin-left: 61px;
+    margin-right: 53px;
+}
+
+.sub-containerfive {
+    font-size: 20px;
+    margin-left: 60px;
+    color: rgb(25, 56, 25);
+}
+
+.sub-containersix {
+    background-color: rgb(248, 242, 242);
+    width: 400px;
+    height: 650px;
+    text-align: center;
+}
+
+ h2 {
+     font-size: 50px;
+     padding-top: 150px;
+     color: rgb(25, 56, 25);
+ }
+
+ .space {
+     font-size: 20px;
+     color: rgb(25, 56, 25);
+     padding-bottom: 20px;
+ }
+
+ .sub-containerseven {
+    color: rgb(25, 56, 25);
+    font-size: 20px;
+ }
+
+ .sub-containereight {
+     width: 790px;
+     height: 450px;
+     position: absolute;
+     top: 790px;
+     right: 35px;
+ }
+
+.containerthree {
+    background-color: rgb(48, 83, 48);
+    width: 600px;
+    height: 698px;
+    margin-left: 61px;
+    padding-top: 18px;
+}
+
+.breakfastimage {
+    position: absolute;
+    top: 1536px;
+    right: 580px;
+    z-index: 2;
+}
+
+.containerfour {
+    margin-right: 61px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    width: 618px;
+    height: 666px;
+    background-color: rgb(215, 227, 228);
+    text-align: center;
+    padding-top: 50px;
+    position: absolute;
+    top: 1370px;
+    right: 0px;
+    z-index: 1;
+}
